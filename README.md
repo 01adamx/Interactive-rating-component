@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/adamx23x/interactive-rating-component](https://github.com/adamx23x/interactive-rating-component)
-- Live Site URL: [https://adamx23x.github.io/interactive-rating-component/](https://adamx23x.github.io/interactive-rating-component/)
+- Solution URL: [https://github.com/01adamx/interactive-rating-component](https://github.com/01adamx/interactive-rating-component)
+- Live Site URL: [https://01adamx.github.io/interactive-rating-component/](https://01adamx.github.io/interactive-rating-component/)
 
 ## My process
 
